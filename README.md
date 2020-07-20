@@ -6,4 +6,4 @@ Learn more about me from my Portfolio! You'll find a brief summary of my backgro
 View my deployed application here: https://tlgeorge-portfolio.herokuapp.com/
 
 
-![portfolio screenshot](.public/assets/tlgportfolio.png)
+![Portfolio Screenshot](./public/assets/tlgportfolio.png)

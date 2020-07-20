@@ -12,10 +12,10 @@ function Contact() {
                             <h2 id="Contact" className="h1-responsive text-uppercase mb-4 text-success">Contact</h2>
                             <div className="mb-4 text-dark">
                                 <p>Feel free to contact me regarding any professional endeavors or opportunities.</p>
-                                <br></br>
-                                <a href="mailto:taneishalg@gmail.com">TaneishaLG@gmail.com</a> |
-                                <a href="tel:2152785611">(215) 278-5611</a> |
-                                <a href="https://docs.google.com/document/d/1u4KrINLFFiSrbYeM-DxxIiYEV5QKHeKjuBfQPeGxJ04/edit?usp=sharing">Resume</a> |
+
+                                <a href="mailto:taneishalg@gmail.com" className="text-dark"> TaneishaLG@gmail.com</a> |
+                                <a href="tel:2152785611" className="text-dark">(215) 278-5611</a> |
+                                <a href="https://docs.google.com/document/d/1u4KrINLFFiSrbYeM-DxxIiYEV5QKHeKjuBfQPeGxJ04/edit?usp=sharing" className="text-dark">Resume</a> |
                                 <a href="https://www.linkedin.com/in/taneishalgeorge/">
                                     <img src="./assets/LI-Logo.png" class="img-responsive" width="10%"></img></a> |
                                     <iframe className="github-btn"
