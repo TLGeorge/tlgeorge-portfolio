@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Fit Levin Training",
+        "description": "A relible tool that Personal Trainers can use for organizing, updating &amp; creating clients. Clients can log in as well to view         their personal goals, history, fitness plan &amp; any notes their trainer has given them about their last session.",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery, Sequelize, Heroku and Materialize framework.",
+        "github": "https://github.com/BrianLevin/Personal-Trainer-Portal",
+        "deployed": "https://personal-trainer-portal.herokuapp.com/login",
+        "image": "../../assets/fitlevin.png"
+    },
+    {
+        "id": 2,
+        "name": "The Covid-19 Relief Initiative",
+        "description": "Find local medical and health charities to aid in the fight against Covid-19! You can also get current Covid-19 stats for each state.",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery; Foundations framework; Covid-19 Monitor Pro and Charity Navigator's APIs.",
+        "github": "https://github.com/dolinay1/Covid-19-Donation-App",
+        "deployed": "https://dolinay1.github.io/Covid-19-Donation-App/",
+        "image": "../../assets/C19RI.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Eat-Da-Burger",
+        "description": "A restaurant app that lets users input the names of burgers they'd like to eat.",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery; SQL, Heroku,NodeJS, MySQL, Express, Handlebars,Bootstrap framework.",
+        "github": "https://github.com/TLGeorge/Eat-Da-Burger",
+        "deployed": "https://github.com/TLGeorge/Eat-Da-Burger",
+        "image": "../../assets/eatdaburger.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Employee CMS",
+        "description": "An application which allows you to view and manage the departments, roles, and employees in a company.",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery; Node, MySQL.",
+        "github": "https://github.com/TLGeorge/EmployeeCMS",
+        "deployed": "https://github.com/TLGeorge/EmployeeCMS",
+        "image": "../../assets/extra.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "description": "Never forget important information again! Quickly make notes of information that you need to review or remember. Dates, passwords, activities etc!",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery, Express.js, UUID and Heroku.",
+        "github": "https://github.com/TLGeorge/Note-Taker",
+        "deployed": "https://arcane-tundra-29946.herokuapp.com/",
+        "image": "../../assets/notetaker.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Employee Summary Template Engine",
+        "description": "A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each employee.",
+        "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery; Node.",
+        "github": "https://github.com/TLGeorge/Employee-Summary-Template-Engine",
+        "deployed": "https://github.com/TLGeorge/Employee-Summary-Template-Engine",
+        "image": "../../assets/extra.jpg"
+    }
+]
