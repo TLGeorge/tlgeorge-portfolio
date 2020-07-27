@@ -46,11 +46,11 @@
     },
     {
         "id": 6,
-        "name": "Employee Summary Template Engine",
+        "name": "Google Books Search",
         "description": "A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each employee.",
         "technologies": "Technologies used: HTML5, CSS3, JavaScript, jQuery; Node.",
-        "github": "https://github.com/TLGeorge/Employee-Summary-Template-Engine",
-        "deployed": "https://github.com/TLGeorge/Employee-Summary-Template-Engine",
+        "github": "https://github.com/TLGeorge/google-books-search",
+        "deployed": "https://tlg-google-books-search.herokuapp.com/",
         "image": "../../assets/extra.jpg"
     }
 ]
