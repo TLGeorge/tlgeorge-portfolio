@@ -51,6 +51,6 @@
         "technologies": "Technologies used: React, JavaScript, Node, Express, Mongo, GoogleBooks API.",
         "github": "https://github.com/TLGeorge/google-books-search",
         "deployed": "https://tlg-google-books-search.herokuapp.com/",
-        "image": "../../assets/extra.jpg"
+        "image": "../../assets/gbsreact.png"
     }
 ]

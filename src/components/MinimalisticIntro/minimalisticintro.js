@@ -77,7 +77,7 @@ class MinimalisticIntro extends React.Component {
                                 <MDBCollapse isOpen={collapsed} navbar>
                                     <MDBNavbarNav left>
                                         <MDBNavItem active>
-                                            <MDBNavLink to='#!'>Home</MDBNavLink>
+                                            <MDBNavLink to='/'>Home</MDBNavLink>
                                         </MDBNavItem>
                                         <MDBNavItem>
                                             <MDBNavLink to='#Portfolio'>Portfolio</MDBNavLink>
