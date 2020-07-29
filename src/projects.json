@@ -50,7 +50,7 @@
         "description": "React-based Google Books Search app. User can search for books via the Google Books API, save it &/or view it on Google Books.",
         "technologies": "Technologies used: React, JavaScript, Node, Express, Mongo, GoogleBooks API.",
         "github": "https://github.com/TLGeorge/google-books-search",
-        "deployed": "https://tlg-google-books-search.herokuapp.com/",
+        "deployed": "https://tlgeorge-googlebookssearch.herokuapp.com/",
         "image": "../../assets/gbsreact.png"
     }
 ]
